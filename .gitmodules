@@ -1,0 +1,36 @@
+[submodule "1-algoritmos/transformer"]
+	path = 3-materiais-composicionais/transformer
+	url = https://github.com/oviniciuscesar/Transformer_C-VAE.git
+[submodule "1-algoritmos/PQMF"]
+	path = 3-materiais-composicionais/PQMF
+	url = https://github.com/oviniciuscesar/Pseudo-Quadrature-Mirror-Filter.git
+[submodule "1-algoritmos/searchA-Star"]
+	path = 1-algoritmos/searchA-Star
+	url = https://github.com/oviniciuscesar/searchA-Star.git
+[submodule "1-algoritmos/gaitacol"]
+	path = 3-materiais-composicionais/gaitacol
+	url = https://github.com/oviniciuscesar/gaitacol.git
+[submodule "1-algoritmos/LSTM_Spat_Trajectories"]
+	path = 3-materiais-composicionais/LSTM_Spat_Trajectories
+	url = https://github.com/oviniciuscesar/LSTM_Spat_Trajectories.git
+[submodule "1-algoritmos/mlperceptron"]
+	path = 1-algoritmos/mlperceptron
+	url = https://github.com/oviniciuscesar/mlperceptron.git
+[submodule "1-algoritmos/dastgah_analysis"]
+	path = 1-algoritmos/dastgah_analysis
+	url = https://github.com/oviniciuscesar/dastgah_analysis.git
+[submodule "1-algoritmos/pd-perceptron"]
+	path = 1-algoritmos/pd-perceptron
+	url = https://github.com/oviniciuscesar/pd-perceptron.git
+[submodule "1-algoritmos/pd-som"]
+	path = 1-algoritmos/pd-som
+	url = https://github.com/oviniciuscesar/pd-som.git
+[submodule "1-algoritmos/pd-euclidiana"]
+	path = 1-algoritmos/pd-euclidiana
+	url = https://github.com/oviniciuscesar/pd-euclidiana.git
+[submodule "2-material-apoio/exemplos-cap3-tese"]
+	path = 2-material-apoio/exemplos-cap3-tese
+	url = https://github.com/oviniciuscesar/exemplos-cap3-tese.git
+[submodule "3-materiais-composicionais/EutrpoiaIII_2025"]
+	path = 3-materiais-composicionais/EutrpoiaIII_2025
+	url = https://github.com/oviniciuscesar/EutropiaIII_2025.git
