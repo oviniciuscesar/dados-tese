@@ -2,6 +2,20 @@
 
 Este repositório agrega códigos-fonte, algoritmos, materiais de apoio e arquivos multimodais produzidos no contexto de uma pesquisa de doutorado sobre a apropriação crítica e criativa de técnicas de machine learning e machine listening voltadas à prática composicional de live-electronics. O material foi organizado para favorecer reprodutibilidade e exploração por compositores, performers, artistas e pesquisadores.
 
+##### Para citar esse conjunto de dados:
+
+```bibtex
+@data{redu/XXUQSG_2026,
+author = {Vinícius Cesar de Oliveira and José Henrique Padovani Velloso},
+publisher = {Repositório de Dados de Pesquisa da Unicamp},
+title = {{Códigos-fonte, materiais de apoio e arquivos da peça Eutrópia III}},
+year = {2026},
+version = {DRAFT VERSION},
+doi = {10.25824/redu/XXUQSG},
+url = {https://doi.org/10.25824/redu/XXUQSG}
+}
+```
+
 ## Estrutura de diretorios (visao geral)
 
 /
